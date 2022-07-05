@@ -1,0 +1,9 @@
+.Titulo {
+    color: darkslateblue;
+    color: #fff;
+    border: 2px dashed #fff;
+}
+
+.Paragrafo {
+    border: 4px solid #dede;
+}

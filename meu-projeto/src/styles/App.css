@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #4334e379;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+h1 {
+  color : rgba(115, 37, 189, 0.918);
+}
+
+h2 {
+  background: #333;
+  color: #999;
+  margin-bottom: 30px;
+}
+
+p {
+  background: #333;
+  color: #999;
+}
+
+li {
+  list-style: none;
+}
